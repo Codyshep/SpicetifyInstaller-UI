@@ -12,3 +12,5 @@ Sometimes legitimate files and programs can be incorrectly flagged, especially i
 
 
 ### Source Code: https://github.com/Codyshep/SpicetifyInstaller-Source
+
+![image](https://github.com/Codyshep/SpicetifyInstaller-UI/assets/58715617/5e97d3bb-5117-4b20-a628-85ab2a59e363)

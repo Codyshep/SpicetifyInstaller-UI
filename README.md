@@ -1,6 +1,9 @@
 # SpicetifyInstaller-UI
 Spicetify Installer with UI
 
+# ! IMPORTANT
+Make sure you using the official app from the Spotify website and not the Microsoft store download
+
 ### Original Docs: Spicetify: https://spicetify.app/docs/getting-started/
 
 
